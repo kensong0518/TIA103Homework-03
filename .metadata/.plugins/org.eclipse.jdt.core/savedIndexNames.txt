@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\TIA103_Workspace\Homework-03\.metadata\.plugins\org.eclipse.jdt.core
